@@ -4,8 +4,8 @@
   "theme_color": "#86c7ef",
   "background_color": "#86c7ef",
   "display": "fullscreen",
-  "scope": "/",
-  "start_url": "/index.htm",
+  "scope": "",
+  "start_url": "index.htm",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
